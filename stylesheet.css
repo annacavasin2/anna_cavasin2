@@ -1,0 +1,183 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+{
+	background-color:black;
+}
+
+
+
+.foto
+{
+	padding:0px;
+	text-align:center;
+	color:black;
+	width:33%;
+	height:40%;
+	position:absolute;
+	top:15%;
+	left:7%;
+	background-color:#000000;
+}
+
+.ispirazione
+{
+	padding:0px;
+	text-align:center;
+	color:black;
+	width:22%;
+	height:30%;
+	position:absolute;
+	top:55%;
+	left:7%;
+	background-color:#000000;
+	
+}
+
+.info
+{
+	padding:0px;
+	text-align:center;
+	color:black;
+	width:33%;
+	height:40%;
+	position:absolute;
+	top: 15%;
+	left:40%;
+	background-color:#000000;
+	
+}
+
+.progetti
+{
+	padding:0px;
+	text-align:center;
+	color:black;
+	width:22%;
+	height:30%;
+	position:absolute;
+	top:55%;
+	left:51%;
+	background-color:#000000;
+	
+}
+.musica
+{
+	padding:0px;
+	text-align:center;
+	color:black;
+	width:22%;
+	height:30%;
+	position:absolute;
+	top:55%;
+	left:29%;
+	background-color:#000000;
+	
+}
+.contatti
+{
+	padding:0px;
+	text-align:center;
+	color:white;
+	width:20%;
+	height:70%;
+	position:absolute;
+	top: 15%;
+	right:7%;
+	background-color:#000000;
+	font-family: "Avenir Light";
+	font-size: 23px;
+}
+
+.contatti a 
+{
+	color: white; 
+	font-family: "Avenir Light";
+	font-size: 23px;
+}
+
+.galleria
+{
+	padding: 0px;
+	text-align:center;
+	width: 90%;
+	height: 98%;
+	position: absolute;
+	top: 80%;
+	right: 7%;
+	background-color:black;
+	margin-bottom:2%;
+}
+
+.ImmGal
+{
+	margin-top:5%;
+	margin-bottom:2%;
+	height: 75%;
+	width: 75%;
+}
+
+p
+{
+	font-family:  Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	
+	font-size: 20px;
+	
+	font-style: normal;
+	
+	text-align: center
+	
+}
+
+.articoloXENOFRAZZ
+{
+	padding:0px;
+	text-align:center;
+	color:white;
+	width:80%;
+	height:15%;
+	position:absolute;
+	top: 90%;
+	right:7%;
+	background-color:#000000;
+	margin-bottom: 7%;
+	margin-top: auto
+}
+
+ .dolltest 
+{
+	padding:0px;
+	text-align:center;
+	color:white;
+	width:80%;
+	height:15%;
+	position:absolute;
+	top: 98%;
+	right:7%;
+	background-color:#000000;
+	margin-bottom: 7%;
+	margin-top: auto
+}
+
+.testoinfo
+{
+padding:0px;
+	text-align:center;
+	color:white;
+	width:80%;
+	height:15%;
+	position:absolute;
+	top: 90%;
+	right:7%;
+	background-color:#000000;
+	margin-bottom: 7%;
+	margin-top: auto
+}
+
+#cont {
+	font-family: "Avenir";
+	font-weight: bolder;
+	font-size: 35px;
+	letter-spacing: 2px;
+}
